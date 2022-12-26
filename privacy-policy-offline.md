@@ -28,45 +28,45 @@ We may share information in specific situations and with specific third parties.
 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-# 1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT?
 
 No personal information is collected.
 Mobile Device Access. We may request minimal access or permission to certain features from your mobile device, including your mobile device's gps, compass, and other offline sensors. If you wish to change our access or permissions, you may do so in your device's settings (some apps may malfunction without sensors access).
 
-# 2. HOW DO WE PROCESS YOUR INFORMATION?
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 Information is processed fully offline to enable app features such as GPS and compass.
 
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+##3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights.
 
-# 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 Your personal information is not collected, nor shared with any 3rd party.
 
-# 5. HOW LONG DO WE KEEP YOUR INFORMATION?
+## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 Offline sensors information is only kept long enough (on the device) to refresh the contents shown on screen.
 
-# 6. DO WE COLLECT INFORMATION FROM MINORS?
+## 6. DO WE COLLECT INFORMATION FROM MINORS?
 
 No
 
-# 7. WHAT ARE YOUR PRIVACY RIGHTS?
+## 7. WHAT ARE YOUR PRIVACY RIGHTS?
 
 Your right is to not have ANY data, personal, device related or otherwise, collected or shared without your knowledge.
 
-# 8. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 8. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Mandazi Org applications do not track by default.
 
-# 9. DO WE MAKE UPDATES TO THIS NOTICE?
+## 9. DO WE MAKE UPDATES TO THIS NOTICE?
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws. We may update this privacy notice from time to time. The updated version will be indicated by an updated 'Revised' date and the updated version will be effective as soon as it is accessible.
 
 If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-# 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at alharthyw@gmail.com or by post to:
 
@@ -76,6 +76,6 @@ P.C. 132
 Al Khoudh
 Oman
 
-# 11 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 This is not possible as no data is collected in the first place.
